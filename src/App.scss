@@ -1,0 +1,17 @@
+@import "./common/colors.scss";
+
+body{
+    margin: 0;
+    font-family: "Prompt";
+    background-color: $primary-color;
+}
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+.layout-content {
+    min-height: 82vh;
+}
+a {
+    text-decoration: none;
+}
